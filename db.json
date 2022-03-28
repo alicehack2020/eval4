@@ -1,0 +1,55 @@
+{
+  "products": [
+    {
+      "Name":"fan",
+      "Price":"100",
+      "category":"Electronics"
+    },
+    {
+      "Name":"tv",
+      "Price":"100",
+      "category":"Clothing"
+    }, 
+    {
+      "Name":"ac",
+      "Price":"100",
+      "category":"Electronics"
+    },
+    {
+      "Name":"ice",
+      "Price":"100",
+      "category":"Stationary"
+    }, 
+    {
+      "Name":"cold",
+      "Price":"100",
+      "category":"Food"
+    },
+    {
+      "Name":"mobilevido",
+      "Price":"100",
+      "category":"Stationary"
+    },
+    {
+      "Name":"mobileoppo",
+      "Price":"100",
+      "category":"Stationary"
+    },
+    {
+      "Name":"mobile234",
+      "Price":"100",
+      "category":"Stationary"
+    },
+    {
+      "Name":"mobil34e",
+      "Price":"100",
+      "category":"Stationary"
+    },
+    {
+      "Name":"mobile45",
+      "Price":"100",
+      "category":"Stationary"
+    }
+  ]
+   
+}
